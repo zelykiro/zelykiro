@@ -1,5 +1,7 @@
-- Hey there, I am or rather I go by the name "zelykiro".
+- Hey there, I am Zelykiro.
 
-- I’m interested in everything and anything Technology/Software related especially the Security part of things.
+- A Technophile and a Programmer, who is mainly interested in the Security side of things but wants to dabble on all sectors of the Tech Industry.
+ 
+- Currently focused on Web Development.
 
-- You can reach me through this email address : zelthedev@gmail.com
+- You can reach me through this email address : zelykiro@protonmail.com
