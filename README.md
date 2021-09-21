@@ -2,19 +2,19 @@
 
 <h1 align="center">About Me</h1>
 
-I'm <strong>zelykiro</strong>, or <strong>zel</strong> for short.
+I'm <strong>Zelykiro</strong>, or <strong>Zel</strong> for short.
 
-A self proclaimed <strong>technophile</strong>.
+A self proclaimed <strong>Technophile</strong>.
 
 I'm currently focusing on <strong>Web Development</strong>, to be more precise the <strong>Front End</strong> side of things.
 
-When I'm not doing anything tech related I tend to:
+When I'm not doing anything <strong>Tech</strong> related I tend to:
 
-- watch <strong>anime or drama</strong>
+- watch <strong>Anime or Drama</strong>
 
-- read <strong>manga or novels</strong> and
+- read <strong>Manga or Novels</strong> and
 
-- play <strong>games</strong>
+- play <strong>Games</strong>
 
 <div align="center">
 
