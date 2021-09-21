@@ -6,7 +6,7 @@ I'm <strong>Zelykiro</strong>, or <strong>Zel</strong> for short.
 
 A self proclaimed <strong>Technophile</strong>.
 
-I'm currently focusing on <strong>Web Development</strong>, to be more precise the <strong>Front End</strong> side of things.
+I'm currently focusing on <strong>Front End Web Development</strong>.
 
 When I'm not doing anything <strong>Tech</strong> related I tend to:
 
