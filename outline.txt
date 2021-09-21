@@ -1,0 +1,37 @@
+Welcome (Banner)
+
+
+About Me (Banner)
+
+- I'm zelykiro, or zel for short. *(not my given name)*
+
+- A technophile who wants to work on all fields of the Tech Industry. Especially security.
+
+- I'm currently focusing on Web Development, to be more precise the Front End side of things.
+
+- My hobbies include:
+    1. Programming and learning about new technologies, be it hardware or software.
+    2. Graphic Design (trying to get better at it).
+    3. Watching anime and drama    ||   *{   *
+    4. Reading manga and novels    ||        ** 
+    5. Playing games               ||        *   }*
+
+
+My Tech Stack (Banner)
+
+HTML5
+CSS3
+SCSS
+JavaScript
+JQuery
+VSCode
+Git
+Figma
+
+
+Contact me (Banner)
+
+protonmail : zelykiro@protonmail.com
+
+
+Thanks for reading (Banner)
