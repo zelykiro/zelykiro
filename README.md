@@ -1,1 +1,1 @@
-<img src="images/welcome.png">
+<img src="images/welcome.png" style="border-radius: 20%;    ">
