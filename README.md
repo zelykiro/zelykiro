@@ -1,1 +1,1 @@
-# [Welcome](images/welcome.png)
+<img src="images/welcome.png">
