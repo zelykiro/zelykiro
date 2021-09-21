@@ -4,7 +4,7 @@
 
 I'm <strong>zelykiro</strong>, or <strong>zel</strong> for short.
 
-A self proclaimed<strong>technophile</strong>.
+A self proclaimed <strong>technophile</strong>.
 
 I'm currently focusing on <strong>Web Development</strong>, to be more precise the <strong>Front End</strong> side of things.
 
