@@ -8,14 +8,6 @@ A self proclaimed <strong>Technophile</strong>.
 
 I'm currently focusing on <strong>Front End Web Development</strong>.
 
-When I'm not doing anything <strong>Tech</strong> related I tend to:
-
-- watch <strong>Anime or Drama</strong>
-
-- read <strong>Manga or Novels</strong> and
-
-- play <strong>Games</strong>
-
 <div align="center">
 
 <h1>My Tech Stack</h1>
