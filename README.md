@@ -2,11 +2,13 @@
 
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
 
-I'm <strong>Zelykiro</strong>, or <strong>Zel</strong> for short.
+𝑰'𝒎 <strong>𝒁𝒆𝒍𝒚𝒌𝒊𝒓𝒐</strong>, 𝒐𝒓 <strong>𝒁𝒆𝒍</strong> 𝒇𝒐𝒓 𝒔𝒉𝒐𝒓𝒕 .
 
-A self proclaimed <strong>Technophile</strong>.
+𝑨 𝒔𝒆𝒍𝒇 𝒑𝒓𝒐𝒄𝒍𝒂𝒊𝒎𝒆𝒅 <strong>𝑻𝒆𝒄𝒉𝒏𝒐𝒑𝒉𝒊𝒍𝒆</strong>.
 
-I'm currently focusing on <strong>Front End Web Development</strong>.
+𝑰 𝒍𝒊𝒌𝒆 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒏 𝑯𝒂𝒓𝒅𝒘𝒂𝒓𝒆 𝒂𝒏𝒅 𝑰'𝒅 𝒍𝒐𝒗𝒆 𝒕𝒐 𝒃𝒆 𝒂𝒏 <strong>𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒆𝒓</strong> 𝒔𝒐𝒎𝒆𝒕𝒊𝒎𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆 <br>_(𝑚𝑖𝑔ℎ𝑡 𝑐ℎ𝑎𝑛𝑔𝑒, 𝐼𝐷𝐾. 𝐼'𝑚 𝑤𝑎𝑦 𝑡𝑜𝑜 𝑒𝑎𝑠𝑖𝑙𝑦 𝑖𝑛𝑓𝑙𝑢𝑒𝑛𝑐𝑒𝑑 𝑏𝑦 𝑡ℎ𝑜𝑠𝑒 (unrealistic) ℎ𝑎𝑐𝑘𝑒𝑟 𝑚𝑜𝑣𝑖𝑒𝑠/𝑠𝑒𝑟𝑖𝑒𝑠)_
+
+𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒇𝒐𝒄𝒖𝒔𝒊𝒏𝒈 𝒐𝒏 <strong>𝑭𝒓𝒐𝒏𝒕 𝑬𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</strong>.
 
 <div align="center">
 
