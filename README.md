@@ -1,6 +1,6 @@
 # <img src="images/welcome.png">
 
-<h1 align="center">About Me</h1>
+<h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
 
 I'm <strong>Zelykiro</strong>, or <strong>Zel</strong> for short.
 
@@ -10,7 +10,7 @@ I'm currently focusing on <strong>Front End Web Development</strong>.
 
 <div align="center">
 
-<h1>My Tech Stack</h1>
+<h1>𝙼𝚢 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h1>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@ I'm currently focusing on <strong>Front End Web Development</strong>.
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h1>Contact Me</h1>
+<h1>𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎</h1>
 
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](zelykiro@protonmail.com)
 
