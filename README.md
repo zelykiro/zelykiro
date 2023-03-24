@@ -15,6 +15,8 @@ _(𝑚𝑖𝑔ℎ𝑡 𝑐ℎ𝑎𝑛𝑔𝑒, 𝐼𝐷𝐾. 𝐼'𝑚 𝑤𝑎�
 
 <h1>𝙼𝚢 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h1>
 
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation)
