@@ -15,7 +15,7 @@ _(𝑚𝑖𝑔ℎ𝑡 𝑐ℎ𝑎𝑛𝑔𝑒, 𝐼𝐷𝐾. 𝐼'𝑚 𝑤𝑎�
 
 <h1>𝙼𝚢 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h1>
   
-<div width="75%" margin="auto"> 
+<div align="center"> 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
