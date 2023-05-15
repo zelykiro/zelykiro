@@ -1,7 +1,7 @@
 # <img src="images/welcome.png">
 <br>
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
-<p>I'm Zelykiro, or Zel for short.</p>
+<p>I'm Rasil, or Ras for short.</p>
 <p>Just someone interested in technology, both software and hardware.</p>
 <p>Currently in an under-graduate degree program.</p>
 
