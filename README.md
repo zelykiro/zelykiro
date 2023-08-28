@@ -1,5 +1,3 @@
-# <img src="images/welcome.png">
-<br>
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
 <p>I'm Rasil.</p>
 <p>Just someone interested in technology, both software and hardware.</p>
